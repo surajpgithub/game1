@@ -1,2 +1,2 @@
-# game1
+# calculator proj
 basically it a javascript game
