@@ -1,2 +1,2 @@
 # calculator proj
-basically it a calculator .
+basically it's a calculator
